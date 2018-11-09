@@ -1,1 +1,1 @@
-# Kaniko without gk and aws plugins (Alpine)
+# Kaniko without GCR and Amazon ECR helpers (Alpine)
